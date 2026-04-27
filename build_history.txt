@@ -1,0 +1,72 @@
+
+-----------------------------
+Customer: Predrag Komljenovic
+Purpose: Gaming
+CPU: Ryzen 5 7600
+GPU: RTX 4060
+RAM: 16GB DDR5
+Storage: 1TB SSD
+Case: Mid Tower
+Total: $799.00
+
+-----------------------------
+Customer: John Smith
+Purpose: Office
+CPU: Intel I5 13600K
+GPU: RTX 4060
+RAM: 16GB DDR5
+Storage: 1TB SSD
+Case: Full Tower
+Total: $619.00
+
+-----------------------------
+Customer: Jonathan Storm
+Purpose: Streaming
+CPU: Ryzen 7 7700X
+GPU: RTX 4070
+RAM: 32GB DDR5
+Storage: 2TB SSD
+Case: Mid Tower
+Total: $1339.00
+
+-----------------------------
+Customer: Lauren Smith
+Purpose: Office
+CPU: Ryzen 5 7600
+GPU: RTX 4060
+RAM: 16GB DDR5
+Storage: 2TB SSD
+Case: Full Tower
+Total: $914.00
+
+-----------------------------
+Customer: Patrick Star
+Purpose: Gaming
+CPU: Ryzen 7 7700X
+GPU: RX 7800XT
+RAM: 32GB DDR5
+Storage: 2TB SSD
+Case: Full Tower
+Total: $1289.00
+
+[2026-04-13 15:21:24]
+-----------------------------
+Customer: Jonathan Patty
+Purpose: Gaming
+CPU: Ryzen 5 7600
+GPU: RTX 4060
+RAM: 16GB DDR5
+Storage: 2TB SSD
+Case: Mid Tower
+Total: $864.00
+
+[2026-04-20 14:57:06]
+-----------------------------
+Customer: PK
+Purpose: Streaming
+CPU: Intel i5 13600K
+GPU: RX 7800XT
+RAM: 32GB DDR5
+Storage: 1TB SSD
+Case: Full Tower
+Total: $1204.00
